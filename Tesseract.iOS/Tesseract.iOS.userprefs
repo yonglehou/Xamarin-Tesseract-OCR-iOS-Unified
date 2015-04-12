@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Tesseract.iOS/Tesseract.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tesseract.iOS/ApiDefinition.cs">
+    <Files>
+      <File FileName="../../../../Volumes/Users/Public/Xamarin-Tesseract-OCR-iOS-master/Xamarin-Tesseract-OCR-iOS/Tesseract.iOS/Extensions.cs" Line="16" Column="2" />
+      <File FileName="Tesseract.iOS/ApiDefinition.cs" Line="121" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
